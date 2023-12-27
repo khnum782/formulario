@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="./image/capa.png">
 </p>
 
 <br>
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Formulario de mentoria
 
-- [Visite o projeto online] (https://darling-chaja-7659d9.netlify.app)
+- [Visite o projeto online] (khnum782.github.io/formulario/)
 
 ## 🔖 Layout
 
